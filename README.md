@@ -1,16 +1,67 @@
 ## Hi there 👋
 
-<!--
-**AhmedMohamed127/AhmedMohamed127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm **Ahmed Mohamed**
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpCb33Np1q02EWg2vF072scWmJ6pi7bm0-sw&s" alt="Fun" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🚀 About Me
+
+I am a **Software Developer** and **Tech Instructor** with a passion for building beautiful, responsive, and high-performance mobile applications. I love teaching, sharing knowledge.
+
+---
+
+### 💼 What I Do
+
+- **Flutter Development**: Creating cross-platform mobile apps using Flutter and Dart.
+- **Teaching**: Instructor for Flutter courses, helping beginners and intermediate learners master app development and Teaching Assistant in Sh.A.
+- **Open Source Contributions**: I love contributing to open source projects, especially those involving Flutter.
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" />
+</p>
+
+- **Languages**: Dart, C#, C++, Java
+- **Frameworks**: Flutter, Android
+- **Other Skills**: UI/UX Design, API Integration, State Management (Bloc), Archeticture design (MVVM), Network Skills (CCNA, MCSA)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedMohamed127&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedMohamed127&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+
+
+### 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/ahmed-mohamed-565251175)
+- 🐦 [GitLab](https://gitlab.com/ahmed1mohamed2ib)
+- 🌐 [Email](ahmed1mohamed2ib@gmail.com)
+
+---
+
+### 📝 Fun Fact
+
+I love Anime series (Attack on titans is the best)
+
+---
+
+### 📄 License
+
+Feel free to use any code you find here in your own projects. All code is open source and available under the MIT License.
+

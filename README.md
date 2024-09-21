@@ -38,6 +38,24 @@ I am a **Software Developer** and **Tech Instructor** with a passion for buildin
 
 ---
 
+---
+
+### 🎨 Samples from my Projects
+
+Here are some of projects that showcase my work:
+
+- [**Project 1: Dalilkom**]
+  [![Play Store](https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.elnooronline.dalilkoom&fbclid=IwAR25_WQlto03SSwmkFrrqQP4EnzcassBJiKzniSPpKL6u_qNizvaBUtFuic)
+- Dalilkom is a unique application that aims to facilitate daily life by providing services locations, features, dates and offers it contains more than 52000 place where you can view the detail of every place.
+- [**Project 2: Cheetah**]
+[![Play Store](https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.cheetah)
+-   Cheetah App is your local guide to display advertisements and offers of shops
+
+
+---
+
+
+
 ### 📈 GitHub Stats
 
 <p align="center">

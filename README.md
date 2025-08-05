@@ -46,13 +46,15 @@ Here are some of projects that showcase my work:
 - [**Project 1: Dalilkom**]
   [![Play Store](https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.elnooronline.dalilkoom&fbclid=IwAR25_WQlto03SSwmkFrrqQP4EnzcassBJiKzniSPpKL6u_qNizvaBUtFuic)
 - Dalilkom is a unique application that aims to facilitate daily life by providing services locations, features, dates and offers it contains more than 52000 place where you can view the detail of every place.
-- [**Project 2: Cheetah**]
-[![Play Store](https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.app.cheetah)
--   Cheetah App is your local guide to display advertisements and offers of shops
+- [**Project 2: al awa2el**]
+[![Play Store](https://img.shields.io/badge/Play_Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.elnooronline.alawael)
+-   The application of the first private school
 
+Allows the student to know the study schedule and examination schedule
+And the latest news, assignments, lessons and school fees
+Also, any teacher can communicate through the application or write to the administration
 
 ---
-
 
 
 ### 📈 GitHub Stats

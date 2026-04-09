@@ -1,10 +1,6 @@
 
 # Hi there 👋, I'm **Ahmed Mohamed**
 
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpCb33Np1q02EWg2vF072scWmJ6pi7bm0-sw&s" alt="Fun" />
-  </a>
-</p>
 
 
 ### 🚀 About Me

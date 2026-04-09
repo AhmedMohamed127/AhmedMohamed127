@@ -5,16 +5,14 @@
 
 ### 🚀 About Me
 
-I am a **Software Developer** and **Tech Instructor** with a passion for building beautiful, responsive, and high-performance mobile applications. I love teaching, sharing knowledge.
+I am an experienced and passionate **Software Engineer** and **Tech Instructor** with a passion for building beautiful, responsive, and high-performance mobile applications. I love teaching, sharing knowledge and leading others to find there own ways on their career.
 
 ---
 
 ### 💼 What I Do
 
 - **Flutter Development**: Creating cross-platform mobile apps using Flutter and Dart.
-- **Teaching**: Instructor for Flutter courses, helping beginners and intermediate learners master app development and Teaching Assistant in Sh.A.
-- **Open Source Contributions**: I love contributing to open source projects, especially those involving Flutter.
-
+- **Teaching**: Instructor for Flutter courses, helping beginners and intermediate learners master app development and Teaching Assistant in Sh.A, Elsadat Academy and AAIB Uni.
 ---
 
 ### 🛠️ Tech Stack
@@ -27,9 +25,9 @@ I am a **Software Developer** and **Tech Instructor** with a passion for buildin
   <img src="https://img.shields.io/badge/API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="API" />
 </p>
 
-- **Languages**: Dart, C#, C++, Java
+- **Languages**: Dart, C#, C++, Java, python
 - **Frameworks**: Flutter, Android
-- **Other Skills**: UI/UX Design, API Integration, State Management (Bloc), Archeticture design (MVVM), Network Skills (CCNA, MCSA)
+- **Other Skills**: UI/UX Design, API Integration, State Management, Archeticture design, Network Skills (CCNA, MCSA)
 
 ---
 
@@ -53,19 +51,10 @@ Also, any teacher can communicate through the application or write to the admini
 ---
 
 
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedMohamed127&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AhmedMohamed127&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-
 
 ### 🤝 Let's Connect
-
+- 💼 [Portfolio](https://www.ahmedmohamed.info/)
 - 💼 [LinkedIn](https://linkedin.com/in/ahmed-mohamed-565251175)
-- 🐦 [GitLab](https://gitlab.com/ahmed1mohamed2ib)
 - 🌐 [Email](ahmed1mohamed2ib@gmail.com)
 
 ---
